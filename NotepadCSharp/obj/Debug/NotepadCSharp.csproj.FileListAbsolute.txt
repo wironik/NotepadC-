@@ -1,0 +1,13 @@
+E:\project\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe.config
+E:\project\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe
+E:\project\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.pdb
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csprojAssemblyReference.cache
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.frmmain.resources
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.Properties.Resources.resources
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csproj.GenerateResource.cache
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csproj.CoreCompileInputs.cache
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.exe
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.pdb
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.blank.resources
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.FindForm.resources
+E:\project\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.About.resources
